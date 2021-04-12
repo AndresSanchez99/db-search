@@ -1,0 +1,2 @@
+Este proyecto es para la creación de la empresa System computer Manizales, esta pagina web ya va en un punto muy avanzado 
+teniendo ya su propia base de datos, tablas, y filtros con los que podemos buscar
